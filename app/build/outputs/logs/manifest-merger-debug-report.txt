@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:scrollhorizontalcalendar] /Users/oscarvera/Documents/GitHub/HorizontalCalendar/scrollhorizontalcalendar/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/edfe76b4a0a63499e86996429d4eb08d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4b028952f0bbee5c15e03bb031a3fad7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/37c092b8ffb186152474c1aacec6bc28/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0d568a97ffabcb74e95bd9dd708abbcb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b29a25786042b6382c0ccf15593d8d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b97e0003f5795121c0566b59ee5f73c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/4a0c3c1dd7b4a46a10402bf42844da42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/476a0f6fc868c8dc9e9b891884ca5ab1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f3914889146a768ee75a3dade7c960d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2f5db08bf6383bd85e679b8d904a0d7c/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4b028952f0bbee5c15e03bb031a3fad7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4b028952f0bbee5c15e03bb031a3fad7/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.oscarvera.scrollhorizontalcalendar.MainActivity
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:12:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+MERGED from [:scrollhorizontalcalendar] /Users/oscarvera/Documents/GitHub/HorizontalCalendar/scrollhorizontalcalendar/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:scrollhorizontalcalendar] /Users/oscarvera/Documents/GitHub/HorizontalCalendar/scrollhorizontalcalendar/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/edfe76b4a0a63499e86996429d4eb08d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/edfe76b4a0a63499e86996429d4eb08d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4b028952f0bbee5c15e03bb031a3fad7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/4b028952f0bbee5c15e03bb031a3fad7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/37c092b8ffb186152474c1aacec6bc28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/37c092b8ffb186152474c1aacec6bc28/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0d568a97ffabcb74e95bd9dd708abbcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/0d568a97ffabcb74e95bd9dd708abbcb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b29a25786042b6382c0ccf15593d8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8b29a25786042b6382c0ccf15593d8d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b97e0003f5795121c0566b59ee5f73c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b97e0003f5795121c0566b59ee5f73c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/4a0c3c1dd7b4a46a10402bf42844da42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/4a0c3c1dd7b4a46a10402bf42844da42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/476a0f6fc868c8dc9e9b891884ca5ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/476a0f6fc868c8dc9e9b891884ca5ab1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f3914889146a768ee75a3dade7c960d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/f3914889146a768ee75a3dade7c960d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2f5db08bf6383bd85e679b8d904a0d7c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/oscarvera/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/2f5db08bf6383bd85e679b8d904a0d7c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		ADDED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/oscarvera/Documents/GitHub/HorizontalCalendar/app/src/main/AndroidManifest.xml
