@@ -11,7 +11,7 @@ repositories {
 }
     
 dependencies {
-      compile 'com.rudo:horizontalcalendar:0.3.1'
+      compile 'com.oscarvera:scrollhorizontalcalendar:0.4.0.4'
 }
 ```
 
